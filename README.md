@@ -1,6 +1,6 @@
 # 🎓 Xây Dựng Công Cụ Tìm Kiếm Sản Phẩm Thời Trang Kết Hợp Ngữ Nghĩa Hình Ảnh Và Văn Bản
 
-**Sinh viên thực hiện:** Nguyễn Phước Nam - [Điền Mã số sinh viên]
+**Sinh viên thực hiện:** Nguyễn Phước Nam - 22T1020252.
 **Giảng viên hướng dẫn:** TS. Đoàn Thị Hồng Phước
 
 ## 📖 1. Mô tả bài toán (Introduction)
